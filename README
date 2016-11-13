@@ -1,0 +1,2 @@
+# Simple ansible playbook which run voting-app docker containters structure on EC2 machine.
+# To run type: ansible-playbook -i ./inventory create_ec2_with_app.yml
